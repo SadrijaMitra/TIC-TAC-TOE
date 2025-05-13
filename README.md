@@ -14,5 +14,4 @@ A simple and classic **Tic-Tac-Toe** game built using just **HTML**, **CSS**, an
 - Detects win, draw, and handles game reset
 - Simple, clean UI
 
-## 📸 Screenshot
 
